@@ -248,9 +248,6 @@ req.query.page
 
 
 
-## Demo
-
-[Deployed on render Link](https://linktodocumentation)
 
 
 ## 🔗 Links
